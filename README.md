@@ -4,6 +4,7 @@ SARS-CoV-2 spike charge analysis scripts
 The repository contains data and scripts used in the manuscript "Evolution to increased positive charge on the viral spike protein may be part of  the adaptation of SARS-CoV-2 to human transmission"  by Cotten and Phan, currently under review at  Virus Evolution and submitted to BioRxiv.
 
 The following files will be included (when complete):
+
 Figure 1 data
 Figure 1 Jupyter notebook
 
