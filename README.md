@@ -7,9 +7,11 @@ The following files will be included (when complete):
 
 Figure 1 data, Figure 1 Jupyter notebook
 
-Figure 2 data can be found here:
+Figure 2 data can be found on Dropbox:
 
 https://www.dropbox.com/s/ii1uf0fzyxem3h1/Figure2_data.csv.zip?dl=0
+
+The data file (too large to store on GetHub) can be retrieved from Dropbox, unzipped and loaded in the Figure2 Jupyter notebook to generate Figure 2.
 
 Figure 2 Jupyter notebook
 
