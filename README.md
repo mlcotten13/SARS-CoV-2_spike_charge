@@ -5,17 +5,15 @@ The repository contains data and scripts used in the manuscript "Evolution to in
 
 The following files will be included (when complete):
 
-Figure 1 data
-Figure 1 Jupyter notebook
+Figure 1 data, Figure 1 Jupyter notebook
 
-Figure 2 data
-Figure 2 Jupyter notebook
+Figure 2 data, Figure 2 Jupyter notebook
 
-Figure 3 data
-Figure 3 Jupyter notebook
+Figure 3 data, Figure 3 Jupyter notebook
 
-Figure 4 data
-Figure 4 Jupyter notebook
+Figure 4 data, Figure 4 Jupyter notebook
+
+Jupyter notebooks, when run, will generate the figures used in the manuscript. 
 
 For questions or comments, contact 
 
