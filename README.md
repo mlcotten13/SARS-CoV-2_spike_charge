@@ -9,7 +9,7 @@ Figure 1 data, Figure 1 Jupyter notebook
 
 Figure 2 data can be found here:
 
-https://www.dropbox.com/s/85tka07mqr80g15/Spike_charge_to_15Jun22_unique.csv.zip?dl=0
+https://www.dropbox.com/s/ii1uf0fzyxem3h1/Figure2_data.csv.zip?dl=0
 
 Figure 2 Jupyter notebook
 
