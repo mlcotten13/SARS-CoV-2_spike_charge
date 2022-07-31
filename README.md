@@ -56,6 +56,22 @@ Figure 4, Panels D,E, F
 
 Data: 
 
+Commands to run script:
+Panel D
+
+python HiLiter_spike_charge_GH_small.py 229E_human_camel_spike_con_aln.fas 229E_SPIKE_features.csv annotations_empty.csv
+
+Panel E
+
+python HiLiter_spike_charge_GH_small.py BCoV_OC43_cons_aln.fas OC43_SPIKE_features.csv annotations_empty.csv
+
+Panel F
+
+python HiLiter_spike_charge_GH_small.py PHEV_OC43_cons_aln.fas OC43_SPIKE_features.csv annotations_empty.csv
+
+
+
+
 
 For questions or comments, contact 
 
