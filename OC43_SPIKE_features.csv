@@ -1,0 +1,8 @@
+feature,from,to,row,color,colorname
+Receptor_binding,437,589,3,#c9171e,red
+S1/S2 cleavage region,766,771,4,#EA573D,an orange from mp coordinates expanded for visibility
+FusionP,882,890,3,#00a497,bluegreen
+HR1,1002,1067,1,#7ebeab,(blue-bamboo-color)
+HR2,1247,1287,1,#7ebeab,(blue-bamboo-color)
+S1,1,752,1,#7ebeab,(blue-bamboo-color)
+S2,759,1263,2,#abb4ba,lighter slate_grey
