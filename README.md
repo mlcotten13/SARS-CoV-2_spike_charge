@@ -16,19 +16,24 @@ Figure 2
 Figure 2 data can be found on Dropbox:
 
 https://www.dropbox.com/s/ii1uf0fzyxem3h1/Figure2_data.csv.zip?dl=0
+
 The data file (too large to store on GetHub) can be retrieved from Dropbox, unzipped and loaded in the Figure2 Jupyter notebook to generate Figure 2.
 
 Figure 2 Jupyter notebook: Figure2_Complete_to_midJune22-spike_charge.ipynb
 
 Figure 3 
 
-Data: cons_spike_from_first300_aln.fas (alignment of consensus spike sequences from first 300 genomes from select SARS-CoV-2 lineages)
+Data: 
+cons_spike_from_first300_aln.fas (alignment of consensus spike sequences from first 300 genomes from select SARS-CoV-2 lineages)
+
 SARS-CoV-2_SPIKE_features3.csv (key features of spike protein needed to make protein feature graph)
+
 annotations_echt.csv (annotation table of protein substitutions)
 
 Figure 3 script: HiLiter_spike_charge_GH.py
 
 Command to run script: 
+
 python HiLiter_spike_charge_GH.py cons_spike_from_first300_aln.fas SARS-CoV-2_SPIKE_features2.csv annotations_echt.csv
 
 Figure 4, Panels A,B,C
@@ -36,12 +41,16 @@ Figure 4, Panels A,B,C
 Data:
 
 229E_91_2022-1-27_spike_charge_table.csv
+
 BCoV_114_114_2022-3-11_spike_charge_table.csv
+
 OC43_235_2022-1-27_spike_charge_table.csv
+
 PHEV_14_2022-3-26_spike_charge_table.csv
+
 MERS-CoV_698_2022-1-27_spike_charge_table.csv
 
-Figure 4, A,B,C Jupyter notebook: 229E_OC43_MERS_Spike_charge.ipynb
+Figure 4, A,B,C Jupyter notebook: Figure4ABC_229E_OC43_MERS_Spike_charge.ipynb
 
 Figure 4, Panels D,E, F
 
