@@ -33,8 +33,15 @@ python HiLiter_spike_charge_GH.py cons_spike_from_first300_aln.fas SARS-CoV-2_SP
 
 Figure 4
 Data:
+229E_91_2022-1-27_spike_charge_table.csv
+BCoV_114_114_2022-3-11_spike_charge_table.csv
+OC43_235_2022-1-27_spike_charge_table.csv
+PHEV_14_2022-3-26_spike_charge_table.csv
+MERS-CoV_698_2022-1-27_spike_charge_table.csv
 
-Figure 4 Jupyter notebook
+Figure 4 Jupyter notebook: 
+229E_OC43_MERS_Spike_charge.ipynb
+
 
 
 For questions or comments, contact 
