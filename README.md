@@ -24,9 +24,11 @@ Figure 3 script: HiLiter_spike_charge_GH.py
 command to run script: 
 python HiLiter_spike_charge_GH.py cons_spike_from_first300_aln.fas SARS-CoV-2_SPIKE_features2.csv annotations_echt.csv
 
-Figure 4 data, Figure 4 Jupyter notebook
+Figure 4
+Data:
 
-Jupyter notebooks, when run, will generate the figures used in the manuscript. 
+Figure 4 Jupyter notebook
+
 
 For questions or comments, contact 
 
