@@ -1,9 +1,10 @@
 # SARS-CoV-2_spike_charge
 SARS-CoV-2 spike charge analysis scripts
 
-The repository contains data and scripts used in the manuscript "Evolution to increased positive charge on the viral spike protein may be part of  the adaptation of SARS-CoV-2 to human transmission"  by Cotten and Phan, currently under review at  Virus Evolution and submitted to BioRxiv.
+The repository contains data and scripts used in the manuscript "Evolution to increased positive charge on the viral spike protein may be part of  the adaptation of SARS-CoV-2 to human transmission"  by Cotten and Phan, currently under review at iScience and submitted to BioRxiv.
 
-The following files are be included:
+
+The following files are included:
 
 Figure 1
 
@@ -15,11 +16,12 @@ Figure 2
 
 Figure 2 data can be found on Dropbox:
 
-https://www.dropbox.com/s/ii1uf0fzyxem3h1/Figure2_data.csv.zip?dl=0
+https://www.dropbox.com/s/pubmo5tu1rbznla/Complete_to_15Nov22_spike_charge_sample_total_charge_date.csv.zip?dl=0
 
-The data file (too large to store on GetHub) can be retrieved from Dropbox, unzipped and loaded in the Figure2 Jupyter notebook to generate Figure 2.
+The data file (too large to store on GitHub) can be retrieved from Dropbox, unzipped and loaded in the Figure2 Jupyter notebook to generate Figure 2.
 
-Figure 2 Jupyter notebook: Figure2_Complete_to_midJune22-spike_charge.ipynb
+Figure 2 Jupyter notebook: Figure_2_Complete_to_midNov22-spike_charge_for_GitHub.ipynb
+
 
 Figure 3 
 
